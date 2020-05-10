@@ -28,3 +28,7 @@ CLUSTALW için ise sadece hamming distance sonucunda elde edilen matrix oluştur
 
 # Buna ek:
 ## Report'da verilen sonuçlar elde edilen en iyi sonuçlar(optimum score) olup diğer scoreları görebilmeniz için algoritmalar çalıştırmanız ve çıktılarına bakmanız yeterlidir.
+
+
+
+[Report](https://github.com/can-ok/BIL458_Bioinformatic/files/4606860/Report.pdf)
