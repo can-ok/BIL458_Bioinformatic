@@ -1,8 +1,7 @@
-İlgil algoritmalar dosyaların altına bulumaktadır.         
 
-# Needleman-Wunsch ve Smith Waterman için
-# Star Alignment için
-# CLustaLW
+### Needleman-Wunsch ve Smith Waterman için
+### Star Alignment için
+### CLustaLW
 
 
 
