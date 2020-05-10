@@ -5,5 +5,4 @@
 
 
 
-# [Report](https://github.com/can-ok/BIL458_Bioinformatic/files/4606860/Report.pdf)
-[Rapor](../master/Report.pdf)
+# [Report](../master/Report.pdf)
