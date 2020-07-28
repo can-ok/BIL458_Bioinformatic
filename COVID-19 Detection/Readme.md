@@ -84,7 +84,7 @@ Tasarlana ağ ile ne AlexNet kadar karmaşık düzeyi yüksek ne de LeNet kadar 
 
 
 
-## Report (Turkish):[Can Okan Taşkıran 100042773.pdf](https://github.com/can-ok/BIL458_Bioinformatic/files/4991029/Can.Okan.Taskiran.100042773.pdf)
+## Report(Turkish): [Can Okan Taşkıran 100042773.pdf](https://github.com/can-ok/BIL458_Bioinformatic/files/4991029/Can.Okan.Taskiran.100042773.pdf)
 
 
 
