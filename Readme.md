@@ -2,6 +2,7 @@
 ### Needleman-Wunsch 
 ![Ekran Alıntısı](https://user-images.githubusercontent.com/25572428/88720995-674cab00-d12e-11ea-845d-8cdd5b68496f.PNG)
 ![Ekran Alıntısı](https://user-images.githubusercontent.com/25572428/88721121-9e22c100-d12e-11ea-8ebe-8e2b84d32e6a.PNG)
+
 ![Ekran Alıntısı](https://user-images.githubusercontent.com/25572428/88721171-b0046400-d12e-11ea-909f-6fcd77440fda.PNG)
 
 
@@ -9,6 +10,7 @@
 ![Ekran Alıntısı](https://user-images.githubusercontent.com/25572428/88721213-c4486100-d12e-11ea-83dd-c54ecf671b50.PNG)
 
 ![Ekran Alıntısı](https://user-images.githubusercontent.com/25572428/88721464-2903bb80-d12f-11ea-9f8e-eab8968f4845.PNG)
+
 ![Ekran Alıntısı](https://user-images.githubusercontent.com/25572428/88721504-3a4cc800-d12f-11ea-9fea-2a2992618fa7.PNG)
 
 
