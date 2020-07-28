@@ -28,8 +28,12 @@ Model 30 periyot (epoch) buyunca eğitilir fakat ModelCheckpoint kullanarak eği
 Genellikle eğitim sırasında öğrenmenin gerçekleşmediği ya da overfitting oluştuğu durumlarda modelin eğitimin devam etmesini istemeyiz. Bu durumlarada erken durdurmadan yararlanabiliriz. Erkan durdurma için parametreleri her modele göre değiştirmiş olsam da bütün modellere uygulamış bulunmaktayım.
 
 
+![2class](https://user-images.githubusercontent.com/47722483/88718182-3d918500-d12a-11ea-8961-466fcb8ef0e2.png)
+![3class](https://user-images.githubusercontent.com/47722483/88718184-3e2a1b80-d12a-11ea-992c-5e494e326b5f.png)
+![4class](https://user-images.githubusercontent.com/47722483/88718185-3e2a1b80-d12a-11ea-9e91-a5c33ba92668.png)
+
 -----------------------
------------
+---------------------
 ## CanNET
 Tasarlana ağ ile ne AlexNet kadar karmaşık düzeyi yüksek ne de LeNet kadar basit bir ağ tasarlamak istenmiştir. AlexNet karmaşıklığına sahip olmayarak ağda başarılı öğrenme gerçekleştirilecek ve LeNet daha başarılı sınıflandırma elde edilecektir. Bu iki önemli mimarinin arasında yer alacak ve daha hızlı tepki veren, daha iyi öğrenen bir ağ tasarlanmak istenmiştir. Bu bağlamda ağ tasarlanırken AlexNet’den feyz alınarak 3lü Conv katmanına (Triple Conv) yer verilmiş ve kullanılan filtre boyutlarında küçülmeye gidilmiştir. Ağın parametreleri ve mimarisi aşağıdaki tabloda verilmiştir.
 |Katmna   | Boyut   |Parametre   |
@@ -78,6 +82,9 @@ Tasarlana ağ ile ne AlexNet kadar karmaşık düzeyi yüksek ne de LeNet kadar 
 ![Adam_Basarim](https://user-images.githubusercontent.com/47722483/88717655-85fc7300-d129-11ea-94f6-7f165ecbe75b.PNG)
 
 
+
+
+## Report (Turkish):[Can Okan Taşkıran 100042773.pdf](https://github.com/can-ok/BIL458_Bioinformatic/files/4991029/Can.Okan.Taskiran.100042773.pdf)
 
 
 
